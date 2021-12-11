@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics, quant finance, economic modelling
 - 🌱 I’m currently learning python & R
 - 💞️ I’m looking to collaborate on quant investment strategies
-- 📫 How to reach me ...
+- 📫 Reach me at prajtuladhar@gmail.com
 
 <!---
 prajtuladhar/prajtuladhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
