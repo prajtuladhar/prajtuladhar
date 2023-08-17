@@ -1,5 +1,6 @@
 
-MSc in financial economics. Active in quant investments, data science, and econometrics 
+MSc Financial Economics. 
+Active in quant investments, data science, and econometrics 
 Reach me at prajtuladhar@gmail.com
 
 <!---
